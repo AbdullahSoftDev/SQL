@@ -1,0 +1,1 @@
+SELECT * FROM Orders WHERE CustomerID = 101 AND OrderDate > '2025-01-01';
