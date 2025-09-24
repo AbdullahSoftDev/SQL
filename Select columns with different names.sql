@@ -1,0 +1,1 @@
+SELECT id AS Id,name AS Student,phone AS Phone FROM person;
